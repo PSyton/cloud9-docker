@@ -29,8 +29,8 @@ ADD conf/cloud9.conf /etc/supervisor/conf.d/
 
 # ------------------------------------------------------------------------------
 # Add volumes
-RUN mkdir /workspace
-VOLUME /workspace
+RUN mkdir /data
+VOLUME /data
 
 # ------------------------------------------------------------------------------
 # Clean up APT when done.
