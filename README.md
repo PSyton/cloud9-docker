@@ -3,7 +3,7 @@ Cloud9 v3 Dockerfile
 
 # Latest Update
 
-Updated Node.js to io.js 3.x
+Updated Node.js 0.12
 
 This repository contains Dockerfile of Cloud9 IDE for Docker's automated build published to the public Docker Hub Registry.
 
